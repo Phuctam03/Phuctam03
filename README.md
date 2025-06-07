@@ -1,18 +1,25 @@
-##👋 Hi there,I'm Tam:
+##👋 **Hi there,I'm Tam**:
 
-Building web applications with SpringBoot/ReactJs. I am striving to become a backend expert as well as to build a system.
+Building web applications with SpringBoot/ReactJs. I am striving to become a backend expert as well as to build a system.  ![image](https://github.com/user-attachments/assets/31edca5b-c8cd-4b0e-92cb-081bd20024a1)
 
+## Socials:
+| [LinkedIn](#) | [Instagram](#) | [Email](#) |
+|---------------|---------------|------------|
+| :link:        | :instagram:   | :email:    |
 
-![image](https://github.com/user-attachments/assets/31edca5b-c8cd-4b0e-92cb-081bd20024a1)
+## Tech Stack:
+| HTML5 | JavaScript | TypeScript | CSS3 | Render | NPM | Node.js | Next.js | NX |
+|-------|------------|------------|------|--------|-----|---------|---------|----|
+| :html5: | :javascript: | :typescript: | :css3: | :rocket: | :package: | :node.js: | :nextjs: | :nx: |
 
-##🌐 Socials:
-https://www.facebook.com/ho.tam.523255/
-https://www.instagram.com/hpt711.03/
-https://www.linkedin.com/in/ho-tam-0006b1233/
+| React | React Query | React Native | React Hook Form | Strapi | PostgreSQL |
+|-------|-------------|--------------|-----------------|--------|------------|
+| :react: | :query: | :mobile: | :form: | :strapi: | :elephant: |
 
-##💻 Tech Stack:
+| GitHub | Git | Figma | Notion | Obsidian | Expo | Vercel | TurboRepo |
+|--------|-----|-------|--------|----------|------|--------|-----------|
+| :octocat: | :git: | :figma: | :notion: | :obsidian: | :expo: | :vercel: | :turborepo: |
 
-REACTJS
-SpringBoot
-MySQL
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
 
