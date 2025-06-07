@@ -5,11 +5,11 @@ Building web applications with SpringBoot/ReactJs. I am striving to become a bac
 ## Socials:
 | [LinkedIn](#) | [Instagram](#) | [Email](#) |
 |---------------|---------------|------------|
-| :https://www.facebook.com/ho.tam.523255/:        | :[instagram](https://www.instagram.com/hpt711.03/):   | :hophuctam7112003@gmail.com:    |
+| https://www.facebook.com/ho.tam.523255/       | [instagram](https://www.instagram.com/hpt711.03/)   | hophuctam7112003@gmail.com    |
 
 ## Tech Stack:
 | HTML5 | JavaScript  |ReactJS| SpringBoot | NextJs |
-|-------|------------|------------|------|--------|-----|---------|---------|----|
-| :html5: | :javascript: | :ReactJs: | :SpringBoot: :nextjs: 
+
+
 
 
