@@ -3,9 +3,9 @@
 Building web applications with SpringBoot/ReactJs.
 I am striving to become a backend expert as well as to build a system. 
 
-<div style="float: right; margin: 0 0 10px 10px;">
+##<div style="float: right; margin: 0 0 10px 10px;">
   ![image](https://github.com/user-attachments/assets/41b8a4cb-bc8e-4bed-b566-41642dfffa9c)
-</div>
+  </div>
 
 ## 🌐 Socials:
 | [LinkedIn](#) | [Instagram](#) | [Email](#) |
