@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 | [LinkedIn](#) | [Instagram](#) | [Email](#) |
 |---------------|---------------|------------|
-| https://www.facebook.com/ho.tam.523255/       | [instagram](https://www.instagram.com/hpt711.03/)   | hophuctam7112003@gmail.com    |
+| www.linkedin.com/in/tamho03       | [instagram](https://www.instagram.com/hpt711.03/)   | hophuctam7112003@gmail.com    |
 
 ## 💻 Tech Stack:
 | HTML5 | JavaScript  |ReactJS| SpringBoot | MySQL
