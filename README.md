@@ -11,7 +11,7 @@
 | www.linkedin.com/in/tamho03       | [instagram](https://www.instagram.com/hpt711.03/)   | hophuctam7112003@gmail.com    |
 
 ## 💻 Tech Stack:
-SpringDataJpa | SpringSecurity | MySql | ReactJs | TaildWind | ORM | JWT
+SpringDataJpa | SpringSecurity | MySql | ReactJs | TaildWind | ORM | JWT |
 MongoDB | SQLServer |
 
 
