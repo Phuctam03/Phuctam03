@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack:
 SpringDataJpa | SpringSecurity | MySql | ReactJs | TaildWind | ORM | JWT |
-MongoDB | SQLServer |
+MongoDB | SQLServer | PosgleSql
 
 
 
